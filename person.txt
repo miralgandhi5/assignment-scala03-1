@@ -1,0 +1,1 @@
+{"name":"miral","Age":23,"address":{"street":"rk","houseNum":1,"city":"delhi"},"salary":200000.0}
